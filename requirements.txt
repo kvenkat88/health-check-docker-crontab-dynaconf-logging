@@ -1,0 +1,7 @@
+requests
+boto3
+redis
+certifi
+dynaconf
+# aiohttp
+

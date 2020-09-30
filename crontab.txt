@@ -1,0 +1,2 @@
+*/2 * * * * python /app/http_request_executor.py
+*/2 * * * * python /app/component_health_check.py
